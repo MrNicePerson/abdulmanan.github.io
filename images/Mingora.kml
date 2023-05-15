@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mingora</name>
+    <description/>
+    <NetworkLink>
+      <name>Mingora</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1izShaZ-JGZnHxqO9GXxc3x1wJTw]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
